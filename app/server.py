@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 import uvicorn
-import opencv2
+import cv2
 from fastai import *
 from fastai.vision import *
 from io import BytesIO
